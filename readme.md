@@ -59,7 +59,7 @@ Go 语言支持以下系统：
 3.下载项目
 
 ```
-
+git clone https://github.com/MRLIXIANZHONG/go_web_lgoin.git
 ```
 
 4.govendor第三方包依赖管理
